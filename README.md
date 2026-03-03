@@ -244,7 +244,8 @@ Additional:
 + 0.5% to Development
   
 
-- A 50M fee is required for private auctions.
+A 50M fee is required for private auctions.
+
 ---
 
 ## 5. Governance 
@@ -321,7 +322,7 @@ The governance structure is designed to:
 
 | Milestone | Description | Timeline |
 | :--- | :--- | :--- | 
-| **1** | Updating SC | 3 weeks | 
+| **1** | Full SC Update | 3 weeks | 
 | **2** | Testing & bug fixing | 1 week |
 | **3** | CLI update & testnet testing | 2 weeks|
 | **4** | PR & release  | 1 weeks|
@@ -334,6 +335,7 @@ The governance structure is designed to:
 | **2** | Backend | 2 week |
 | **3** | Integration | 1 weeks|
 | **4** | Test   | 1 weeks|
+
 ---
 
 ## 7. Budget & Commitment
@@ -346,27 +348,52 @@ The governance structure is designed to:
 
 **TOTAL:** 23.8K USD
 
-### 7.2 Use of Funds
+### 7.2 Payments
 
-The developers will be paid weekly with the commitment that they will deliver the intended work within the timeframe they stipulate.
-Payment by the week was a request made to me (Flechar), and I would like to provide the best possible conditions to ensure everything is fulfilled to the letter.
+The developers will be paid for milestones completed.
+
+**SMART CONTRACT**
+
+|MILESTONE | PAYMENT (USD) |
+|:--- |:--- |
+| 1 | 6 000  |
+| 2 | 2 000  | 
+| 3 | 2 000 |
+| 4 | 4 000 |
+
+**BACKEND/FRONTEND/INTEGRATION**
+
+|MILESTONE | PAYMENT (USD) |
+|:--- |:--- |
+| 1 | 4 200  |
+| 2 | 2 800  | 
+| 3 & 4 | 2 800 |
+
+**Note:** The last two weeks will be paid together at the end to ensure greater security in the completion of the project.
 
 ---
 
-## 8. Team
+### 8. FUTURE UPDATES
+
+• New auction models  
+• Evaluation of fees in practice and possible adjustment if necessary. 
+
+---
+
+## 9. Team
 - **LEADER:**
   
   Flechar
   
 - **DEVELOPERS:**
   
-  **SC** - L_Wen
+  **Smart Contract** - L_Wen
   
   **Backend/Frontend/Integration** - SerendıpıtчSeeker
 
 ---
 
-## 9. Links & Contacts
+## 10. Links & Contacts
 - **Repository:** https://github.com/flechar/Nostromo_SC.git
 - **More Detailed Documentation:** https://github.com/flechar/Nostromo_SC/issues/1
 - **Contact:** @flechar
