@@ -341,12 +341,28 @@ The governance structure is designed to:
 ## 7. Budget & Commitment
 ### 7.1 Requested Funding
 
-**SMART CONTRACT:** 14 000 USD (2 000 USD/week)
+There was $15 000 USD remaining allocated to complete the Smart Contract integration and finalize the project.
+However, due to the need for a substantial Smart Contract upgrade, we are requesting a total of $23 800 USD. This update will involve:
 
-**BACKEND/FRONTEND/INTEGRATION:** 9 800 USD (1 400 USD/week)
+- Major Smart Contract improvements and restructuring
+- Frontend development 
+- Backend development  
+- Full integration
+- Test everything
 
+Considering the size, complexity, the enormous utility and benefits of this update, and to ensure a robust Smart Contract, we believe the requested amount is reasonable and justified.
 
-**TOTAL:** 23.8K USD
+**SMART CONTRACT** 
+
+- $14 000 USD (2 000 USD/week)
+
+**BACKEND/FRONTEND/INTEGRATION** 
+
+- $9 800 USD (1 400 USD/week)
+
+**TOTAL** 
+
+- $23 800 USD
 
 ### 7.2 Payments
 
