@@ -2,6 +2,7 @@
 
 ## 1. Overview
 Our goal is to deliver a comprehensive Nostromo Smart Contract (SC) with a Project Hub that serves as the primary gateway for projects joining the Qubic ecosystem.
+The purpose of this update, is not just to be a fundraiser, but to create a clear path for any project that wants to enter our ecosystem (idea creation, fundraising and launch).
 
 At its core, the platform provides a professional-grade Fundraising Engine. By evolving the initial Nostromo architecture, we are significantly enhancing the UX/UI and dynamics to meet current market standards. This includes removing outdated elements, such as the Tier System, which the community and Shareholders (SH) identified as a big barrier to the adoption of Nostromo.
 
@@ -217,10 +218,12 @@ The developers will be paid for milestones completed.
 
 ---
 
-## 9. Future Updates
+## 9. Possible Future Updates
 
-• New auction models  
-• Evaluation of fees in practice and possible adjustment if necessary. 
+- New auction models  
+- Evaluation of fees in practice and possible adjustment if necessary.
+- The Project Hub (**not ideal** - For the smart contract to become fully functional, ideally it should be launched at the same time as the other main features)
+
 
 ---
 
