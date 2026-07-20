@@ -15,11 +15,9 @@ To maximize ecosystem value, we are introducing three critical pillars:
 **Governance:** A support for all the Nostromo ecosystem giving transparency, governance, a dispute system to ensure investor protection and long-term viability.
 
 This approach goes beyond simply raising funds, creating a robust and comprehensive financial structure for launching and growing new projects.
-  
-**IMPORTANT:** The current proposal is a summarized version of the system. A more detailed description of the mechanisms and some examples can be found in **Chapter 11 (More Detailed Documentation #1**).
 
 
-**Total Funding Required:** $23.8K USD
+**Total Funding Required:** $26.18K USD (Payed by the Smart Contrat itself)
 
 ---
 ## 2. Business Value & Ecosystem Impact
@@ -54,12 +52,12 @@ The core of the Nostromo SC  is a versatile fundraising engine designed to accom
 ### 3.3 Economic Alignment (Distribution Structure)
 The distribution model is designed to attract large-scale projects by offering volume-based fee reductions, directly benefiting Qubic Shareholders:
 
-|Category (Fundraising Volume) |	Fundraiser |	Shareholders |	Management&Development |
-|:-- |:-- |:-- |:-- |
-| Donations|	96%|	3%|	1%|
-| IDOs (<5B)|	94%	|5%|	1%|
-| IDOs (5B to 200B)	| 94,5% - 95%| 4.5% - 4.0%	|1% |
-| IDOs (>200B)|	95.5%	|3.5%	|1%|
+|Category (Fundraising Volume) |	Fundraiser |	Shareholders |	Management&Development | SC Takeover|
+|:-- |:-- |:-- |:-- |:-- |
+| Donations|	95.5%|	3%|	1%|0,5%|
+| IDOs (<5B)|	93.5%	|5%|	1%|0,5%|
+| IDOs (5B to 200B)	| 94% - 94.5%| 4.5% - 4.0%	|1% |0,5%|
+| IDOs (>200B)|	95%	|3.5%	|1%|0,5%|
     
 ---
 
@@ -69,7 +67,7 @@ The Auction House is the Project Hub’s strategic tool designed to resolve curr
 ### 4.1 Auction Mechanisms
 **Batch Auctions (Institutional Grade):** Optimized for large-scale IDOs where the seller defines the quantity and a floor price. Bids are ranked by value, ensuring assets are efficiently distributed to the participants who value them most.
 
-**Standard Auctions (Asset Liquidity):** Focused on individual assets or "bundles" (mixed lots of tokens/shares). This model is vital for providing an exit for illiquid assets through competitive bidding with built-in anti-sniping protection.
+**Standard/Classic Auctions (Asset Liquidity):** Focused on individual assets or "bundles" (mixed lots of tokens/shares). This model is vital for providing an exit for illiquid assets through competitive bidding with built-in anti-sniping protection.
 
 ### 4.2 Strategic Business Value
 **Price Discovery:** Eliminates arbitrary pricing for new projects, allowing actual market demand to dictate value.
@@ -81,13 +79,15 @@ The Auction House is the Project Hub’s strategic tool designed to resolve curr
 ### 4.3 Economic Alignment (Distribution Structure)
 The fee structure incentivizes high-volume activity, ensuring Qubic Shareholders directly benefit from the platform’s success:
 
-|Auction Volume |	Fundraiser |	Shareholders |	Management&Development |
-|:-- |:-- |:-- |:-- |
-|<5B|	94%	|5%|	1%|
-| 5B to 200B	| 94,5% - 95%| 4.5% - 4.0%	|1% |
-|>200B|	95.5%	|3.5%	|1%|
+|Auction Volume |	Fundraiser |	Shareholders |	Management&Development | SC Takeover|
+|:-- |:-- |:-- |:-- |:-- |
+|<5B|	93.5%	|5%|	1%|0,5%|
+| 5B to 200B	| 94% - 94.5%| 4.5% - 4.0%	|1% |0,5%|
+|>200B|	95%	|3.5%	|1%|0,5%|
 
-- **Private Auctions:** An additional 50M flat fee is required for private auctions,  increasing the amount available in the SC burning pool.
+- **Private Auctions:** An additional 50M flat fee is required for private auctions.
+
+- **Anti-spam fees:** A flat fee of 100 Qubic for creating batch and classic auctions. A dynamic fee for bids: max(100-("quantity"X"price",0) Qubic
   
 ---
 ## 5. The Project Hub: Innovation Pipeline
@@ -110,7 +110,7 @@ Addressing concerns regarding the quality of "sold ideas," the Hub implements a 
 ### 5.3 Sustainability Model (Fee Structure)
 The Project Hub serves as a deflationary and revenue-generating tool for Qubic ecosystem:
 
-**Creation Fees (Burned):** A 50M fee for Ideas and a 10M fee for Suggestions, directly reducing Qubic supply.
+**Creation Fees:** A 50M fee for Ideas and a 10M fee for Suggestions. 10% of these fees will be used to directly reduce the supply of Qubic through burn and replenish the Smart Contract's reserves.
 
 **Success Fees:** A 1.5% fee on all successful sales, ensuring the platform's long-term maintenance and alignment with the ecosystem's growth.
 
@@ -139,82 +139,62 @@ The core business value of this governance model is the Dispute Mechanism, miles
 **Risk Mitigation:** Shifts the risk away from the individual investor by providing a collective oversight layer managed by Nostromo Shareholders.
 
 ---
-## 7. Roadmap & Milestones
+## 7. Roadmap
 
-### 7.1 Proactive Commitment & Risk Mitigation
-Our team has been actively developing this project since late January. We are deeply committed to the long-term viability of the Nostromo ecosystem, so much so that Milestone 1 (Full SC Update) is nearing completion, regardless of the pending funding status.
+### 7.1 Development Phases
 
-By pre-financing the initial development risk, we are demonstrating our "skin in the game". This ensures that the Incubation Board is not investing in a mere concept, but in a functional framework that is almost ready for testing.
+Instead of a single monolithic launch, the Nostromo ecosystem is structured into three logical phases, ensuring we deliver working "ingredients" before assembling the final platform.
 
-**Smart Contract**
+**Phase 1: Auction House**
 
-| Milestone | Description | Timeline |
-| :--- | :--- | :--- | 
-| **1** | Full SC Update | Almost done | 
-| **2** | Testing & bug fixing | 1 week |
-| **3** | CLI update & testnet testing | 2 weeks|
-| **4** | PR & release  | 1 weeks|
+_Strategic Focus:_ Short-term revenue generation. This module acts as the financial engine to kickstart platform activity.
 
-**Backend/Frontend/Integration**
+_Deliverables:_ usefulness, revenue for the project's development, liquidity for the community.
 
-| Milestone | Description | Timeline |
-| :--- | :--- | :--- | 
-| **1** | Frontend | In progress | 
-| **2** | Backend | 2 week |
-| **3** | Integration | 1 weeks|
-| **4** | Test   | 1 weeks|
+**Phase 2: Project Hub**
+
+_Strategic Focus:_ Marketplace for those who create viable projects and ideas for the Qubic ecosystem.
+
+_Deliverables:_ Platform utility, ecosystem expansion, revenue, integration with the Phase 1 infrastructure.
+
+**Phase 3: Fundraiser & Governance**
+
+_Strategic Focus:_ The final product layer. High-value crowdfunding and DAO governance mechanisms that bind the entire ecosystem together.
+
+_Deliverables:_ Fundraising modules, DAO, and full system integration.
 
 ---
 
 ## 8. Budget & Commitment
 ### 8.1 Financial Rationale
 
-**Efficiency:** In January allocation for a simple UI integration was $15 000 USD. Without taking these figures for granted, with just an additional $8.8k, we are delivering a complete financial engine (Auctions, Hub, and Governance). This proposal delivers professional-grade platform for $23 800, representing a much **higher ROI for the ecosystem**.
-
-**Risk Mitigation:** 100% of the funds required with this proposal, are for the developer team. And they are nearing completion of the first milestone, demonstrating the viability and commitment to the project. It's not just a concept anymore.
-
-**Alignment:** Prior to this proposal, a percentage of the Shareholders fee was agreed upon with the shareholders as payment for Flechar's work, to ensure a long-term commitment to the Nostromo SC.
-
-The scope of the project includes several technical components such as:
-
-- Standard auction mechanisms
-- Batch auction mechanisms
-- Auction-based fundraising
-- Modification of the existing Nostromo fundraising system
-- Donation fundraising campaigns
-- Dispute resolution and governance mechanisms
-- Frontend 
-- Backend 
-- UI
-- UX
-- SC integration
-- Test everything
-
 **Budget for Smart Contrat development** 
 
-- $14 000 USD (2 000 USD/week)
+- $15 400 USD (~$5 133,33/ phase)
 
 **Budget for Backend/Frontend/Integration development** 
 
-- $9 800 USD (1 400 USD/week)
+- $10 780 USD (~$3 593,33/ phase)
 
 **Total development** 
 
-- $23 800 USD
+- $26 190 USD (~$8,726.66 USD/ phase)
 
-### 8.2 Payments
+### 8.2 Payment Flow & Shareholder Protection Rules
 
-The developers will be paid for milestones completed.
+**Temporary 100% Fee Redirect:** Until the full $26.18K debt is cleared, 100% of all platform-generated fees will be redirected to the development wallet. Shareholder distributions are temporarily paused during this payback period.
 
-|MILESTONE | SMART CONTRACT (USD) | BACKEND/FRONTEND/INTEGRATION (USD) | TOTAL (USD) |
+**The Accumulation Rule:** If Phase 1 clears its $8,726.66 allocation before Phase 2 is ready, all subsequent fees will stack in the development wallet. These funds will be released to the developers immediately upon the launch of Phase 2. Iqual terms for the Phase 3.
+
+**Payout Execution:** Payouts occur monthly, calculated using the 30-day moving average of the Qubic/USDT pair. All transactions will be tracked transparently via a shared Google Spreadsheet managed by Flechar.
+
+Post-Debt Return to Normal: The exact moment the total development debt reaches $0, the Smart Contract permanently reverts to its standard fee model, activating shareholder and management distributions.
+
+|PHASE | SMART CONTRACT (USD) | BACKEND/FRONTEND/INTEGRATION (USD) | TOTAL (USD) |
 |:--- |:--- |:--- | :--- |
-| 1 | 6 000  |4 200 | 10 200 |
-| 2 | 2 000  |  2 800  | 4 800 |
-| 3 | 2 000 | 0 | 2 000 |
-| 4 | 4 000 | 2 800 | 6 800 |
-
-
-**Note:** The last two weeks of work will be paid in full at the end to ensure greater security in the completion of the project and to reinforce our commitment.
+| 1 | ~$5 133,33  |~$3 593,33 | ~$8,726.66 USD |
+| 2 | ~$5 133,33  |~$3 593,33 | ~$8,726.66 USD |
+| 3 | ~$5 133,33  |~$3 593,33 | ~$8,726.66 USD |
 
 ---
 
@@ -222,7 +202,6 @@ The developers will be paid for milestones completed.
 
 - New auction models  
 - Evaluation of fees in practice and possible adjustment if necessary.
-- The Project Hub (**not ideal** - For the smart contract to become fully functional, ideally it should be launched at the same time as the other main features)
 
 
 ---
@@ -234,7 +213,7 @@ The developers will be paid for milestones completed.
   
 - **Developer Team**
   
-    - **Smart Contract** - L_Wen
+    - **Smart Contract** - N-010
   
     - **Backend/Frontend/Integration** - SerendıpıtчSeeker
 
