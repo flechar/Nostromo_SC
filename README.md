@@ -6,18 +6,22 @@ The purpose of this update, is not just to be a fundraiser, but to create a clea
 
 At its core, the platform provides a professional-grade Fundraising Engine. By evolving the initial Nostromo architecture, we are significantly enhancing the UX/UI and dynamics to meet current market standards. This includes removing outdated elements, such as the Tier System, which the community and Shareholders (SH) identified as a big barrier to the adoption of Nostromo.
 
-To maximize ecosystem value, we are introducing three critical pillars:
+To maximize ecosystem value, we are introducing four critical pillars:
 
 **Multi-Modal Fundraising Engine:** The core of Nostromo SC.
 
-**Auction House:** Providing a 'Price Discovery' mechanism that allows the market to define fair value for assets and projects.
+**Auction House:** Bringing a new feature to our ecosystem and for the fundraising engine, provide a 'Price Discovery' mechanism that allows the market to define fair value for assets and projects.
+
+**Project Hub:** Bringing visibility for new projects looking to establish themselves within the Qubic ecosystem.
 
 **Governance:** A support for all the Nostromo ecosystem giving transparency, governance, a dispute system to ensure investor protection and long-term viability.
 
-This approach goes beyond simply raising funds, creating a robust and comprehensive financial structure for launching and growing new projects.
+This approach goes beyond simply raising funds, creating a robust and comprehensive financial structure for launching and growing new projects. It is a comprehensive platform for developing new projects within a solid and robust Qubic framework!
 
 
 **Total Funding Required:** $26.18K USD (Payed by the Smart Contrat itself)
+
+I am not asking for money. I am simply asking for permission to implement this project.
 
 ### Available Options:
 
@@ -68,7 +72,7 @@ The distribution model is designed to attract large-scale projects by offering v
 ---
 
 ## 4. Auction House: Price Discovery & Liquidity Engine
-The Auction House is the Project Hub’s strategic tool designed to resolve current gaps in asset liquidity and allow the market to define the fair value of new launches.
+The Auction House is the Fundraising Engine’s strategic tool designed to resolve current gaps in asset liquidity and allow the market to define the fair value of new launches.
 
 ### 4.1 Auction Mechanisms
 **Batch Auctions (Institutional Grade):** Optimized for large-scale IDOs where the seller defines the quantity and a floor price. Bids are ranked by value, ensuring assets are efficiently distributed to the participants who value them most.
@@ -78,7 +82,7 @@ The Auction House is the Project Hub’s strategic tool designed to resolve curr
 ### 4.2 Strategic Business Value
 **Price Discovery:** Eliminates arbitrary pricing for new projects, allowing actual market demand to dictate value.
 
-**Asset Bundling:** Facilitates a secondary market for project fractions or share sets, increasing the velocity of capital within the Qubic ecosystem.
+**Asset Grouping:** Create a secondary market for illiquid assets or asset batches, increasing trading volume within the Qubic ecosystem.
 
 **Buy Now & Private Auctions:** Some features offer the flexibility for private auctions or instant sales, generating additional fees for the ecosystem.
 
@@ -105,7 +109,7 @@ The Project Hub acts as a structured incubator where project concepts are transf
 **Project Ideas (Tradable Assets):** A formalized framework for creators to sell detailed project specifications to developers or investors. To ensure quality, sellers must stake 100% of the project's value as collateral.
 
 ### 5.2 Investor Protection & Quality Control
-Addressing concerns regarding the quality of "sold ideas," the Hub implements a strict tiered access and dispute system:
+Addressing concerns regarding the quality of "sold ideas", the Hub implements a strict tiered access and dispute system:
 
 **Tiered Discovery:** Information is released in stages (Title -> Introduction -> Full Specification), allowing buyers to assess the concept before the final 90% payment (to acquire the final stage).
 
@@ -118,7 +122,7 @@ The Project Hub serves as a deflationary and revenue-generating tool for Qubic e
 
 **Creation Fees:** A 50M fee for Ideas and a 10M fee for Suggestions. 10% of these fees will be used to directly reduce the supply of Qubic through burn and replenish the Smart Contract's reserves.
 
-**Success Fees:** A 1.5% fee on all successful sales, ensuring the platform's long-term maintenance and alignment with the ecosystem's growth.
+**Success Fees:** All successful sales, has a 1.5% fee.
 
 ---
 
