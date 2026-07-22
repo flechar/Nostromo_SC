@@ -228,4 +228,5 @@ Post-Debt Return to Normal: The exact moment the total development debt reaches 
 ## 11. Links & Contacts
 - **Repository:** https://github.com/flechar/Nostromo_SC.git
 - **More Detailed Documentation:** https://github.com/flechar/Nostromo_SC/issues/1
+- **Nostromo Updated code**: https://github.com/qubic/core/pull/842
 - **Contact:** @flechar
