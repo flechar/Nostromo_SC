@@ -19,6 +19,12 @@ This approach goes beyond simply raising funds, creating a robust and comprehens
 
 **Total Funding Required:** $26.18K USD (Payed by the Smart Contrat itself)
 
+### Available Options:
+
+> **Option 0**: No, I don't want
+
+> **Option 1**: Yes, I want this project on Qubic
+
 ---
 ## 2. Business Value & Ecosystem Impact
 
